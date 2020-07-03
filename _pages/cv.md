@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://YBZh.github.io/files/yabinzhang_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://sampson-lee.github.io/files/Resume_for_Sampson.pdf)
 
