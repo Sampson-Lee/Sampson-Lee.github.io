@@ -6,6 +6,6 @@ author_profile: true
 
 # Struggle for a good paper.
 
-## Conference Paper
+### Conference Paper
 
-## Journal Paper
+### Journal Paper
