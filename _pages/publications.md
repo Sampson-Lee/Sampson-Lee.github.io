@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Prepare for a good paper.
+# Struggle for a good paper.
 
 ## Conference Paper
 
