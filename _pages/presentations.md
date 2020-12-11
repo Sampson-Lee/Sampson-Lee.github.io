@@ -21,10 +21,11 @@ The main processes include:
 Key Responsibilities:
 1) excavate important expression regions (IER) based on keypoints and attention mechanism to detect subtle facial motion, improve the accuracy on RAF database by 0.54% 
 <p align="center">
-  <img src="https://caozhangjie.github.io/files/caozhangjie_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://github.com/Sampson-Lee/Sampson-Lee.github.io/
+" alt="Photo" style="width: 450px;"/> 
 </p>
 
-2) calculate high-order statistics(HOS) based on low-rank bilinear pooling, improve the accuracy on RAF database by 0.4\% compared to normal bilinear pooling.
+2) calculate high-order statistics(HOS) based on low-rank bilinear pooling, improve the accuracy on RAF database by 0.4% compared to normal bilinear pooling.
 
 
-3) incorporate context clues (CC) based on specific multi-view attention fusion, improve the accuracy on EMOTIC database by 0.91\% compared to normal attention fusion. 
+3) incorporate context clues (CC) based on specific multi-view attention fusion, improve the accuracy on EMOTIC database by 0.91% compared to normal attention fusion. 
