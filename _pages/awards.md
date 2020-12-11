@@ -5,6 +5,12 @@ permalink: /awards/
 author_profile: true
 ---
 
-* **National Scholarship for Encouragement** South China University of Technology, China, 2016
-* **The First Prize Scholarship** South China University of Technology, China, 2015
-* **Electronic Design Competition, Third Prize** Guangdong Province, China, 2015
+* **National Scholarship for Encouragement** Excellence Award in Face Segmentation Using Short Video Clips(at Top Num. 11),  2020
+* **Third-class scholarship of South China University of Technology** 2020
+* **Third-class scholarship of South China University of Technology** 2019
+* **First-class scholarship of South China University of Technology** 2018
+* **Second-class scholarship of South China University of Technology** 2017
+* **National Encouragement Scholarship(The Second Highest Scholarship in SCUT)** 2016
+* **Third Prize of Electronic Design Competition, Guangdong Province** 2016
+* **Second-class Scholarship of South China University of Technology** 2015
+
