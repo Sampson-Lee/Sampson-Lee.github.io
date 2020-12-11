@@ -6,8 +6,8 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  # - title: "Presentations"
-  #   url: /presentations/
+  - title: "Presentations"
+    url: /presentations/
 
   # - title: "Professional"
   #   url: /professional_activities/
@@ -30,8 +30,8 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+ - title: "Blog Posts"
+   url: /year-archive/
     
-#  - title: "Guide"
-#    url: /markdown/
+ - title: "Guide"
+   url: /markdown/
